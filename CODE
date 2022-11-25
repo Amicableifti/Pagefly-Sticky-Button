@@ -7,6 +7,17 @@ border-radius: 50px;
 border-style: none;
 box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 8px 0px;
 
+Add ID :
+=========
+#btn {
+	position: fixed;
+	z-index: 10!important;
+}
+/* Add padding in footer  */ 
+@media screen and (min-width: 1240px){
+	.Footer,footer {
+	padding-bottom: 50px
+}
 
 Section CSS:
 ===========

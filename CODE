@@ -15,8 +15,8 @@ Add ID :
 }
 /* Add padding in footer  */ 
 @media screen and (min-width: 1240px){
-	.Footer,footer {
-	padding-bottom: 50px
+	.footer,footer {
+	padding-bottom: 150px!important;
 }
 
 Section CSS:

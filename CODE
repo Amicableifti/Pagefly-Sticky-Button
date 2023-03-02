@@ -1,11 +1,3 @@
-Button CSS :
-===========
-
-
-font-size: 13px;
-border-radius: 50px;
-border-style: none;
-box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 8px 0px;
 
 Add ID :
 =========
@@ -21,13 +13,11 @@ Add ID :
 
 Section CSS:
 ===========
-Make sure sections hide for desktop,laptop,tablet . Go general>visibility> hide.
 
 position: sticky;
 bottom: 0px;
 width: 100%;
-z-index: 9999;
-background: rgba(255, 255, 255, 0);
+background: rgba(255, 255, 255, 255);
 padding-top: 10px;
 padding-bottom: 0px;
 border-style: none;
